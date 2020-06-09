@@ -1,0 +1,21 @@
+.navbar-brand {
+  background-color: white;
+  width: 35px;
+  height: 35px;
+  border-radius: 25px;
+  padding: 5px;
+  text-align: center;
+}
+
+#heart-icon {
+  color: red;
+  margin-bottom: 5px;
+}
+
+#logo-description {
+  font-size: 30px;
+  color: white;
+  font-weight: 500;
+  margin-right: 30px;
+  font-family: monospace;
+}
